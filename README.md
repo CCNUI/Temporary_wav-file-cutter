@@ -1,6 +1,7 @@
 # WAV File Cutter
 
 一个简单的 Python 脚本，用于在 Windows 11 环境下，根据 `CutTime.txt` 文件中提供的时间戳，使用 FFmpeg 将一个 `.wav` 音频文件分割成多个片段。
+![ScreenShot1](https://github.com/user-attachments/assets/b9fc6267-6a9e-4cf1-a198-1a82cfa15d6b)
 
 ## 🚀 功能
 
